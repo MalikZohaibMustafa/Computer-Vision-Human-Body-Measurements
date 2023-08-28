@@ -13,3 +13,6 @@ if you have wget error that its not installed, you can download the model manual
 Here is how.
 Go to your browser and type `https://people.eecs.berkeley.edu/~kanazawa/cachedir/hmr/models.tar.gz`
 And it will be downloaded
+
+
+After that run command `python app.py` and Enjoy
