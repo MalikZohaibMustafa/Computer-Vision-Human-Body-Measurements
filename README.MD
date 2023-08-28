@@ -1,6 +1,6 @@
 # Human body measurement using computer vision/ 3D modeling
 Anthropometric measurement extraction
-Requirements: Python 3.7
+Requirements: Python 3.10.9
 Tensorflow=1.13.1
 
 ###  Download pre-trained model

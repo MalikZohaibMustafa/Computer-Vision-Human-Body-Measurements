@@ -17,7 +17,8 @@ scipy==1.1.0
 #spicy==0.16.0
 openpyxl==2.6.2
 ecos==2.0.7.post1
-vtk==8.1.2
+vtk==9.2.2
+
 traits==5.1.1
 fancyimpute==0.3.2
 mayavi==4.7.1
